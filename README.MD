@@ -2,7 +2,7 @@
 This repo is intended to hold all of the components needed for a robot. Currently it holds libraries related to making a decision.
 
 ### s-lang
-Allows a modeller to define whats important to our bot or agent, hence forth agent, plain language criteria (tags) for how to achieve important things, goals, through actions. Goals, tags and actions are link through triples and quads.
+Allows a modeller to define whats important to our bot or agent, hence forth agent. It allows the use of plain language criteria (tags) for how to achieve important things, goals, through actions. Goals, tags and actions are link through triples and quads.
 
 Later this modelling step can be adjusted so just narratives through LLM like chatGPT allow for agent definition.
 
