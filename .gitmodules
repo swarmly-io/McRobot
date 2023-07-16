@@ -1,0 +1,9 @@
+[submodule "processes"]
+	path = processes
+	url = https://github.com/swarmly-io/processes.git
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/swarmly-io/knowledge.git
+[submodule "lang"]
+	path = lang
+	url = https://github.com/swarmly-io/s-lang.git
