@@ -12,7 +12,7 @@ It is also the starting point for orchestration of state processing and graph in
 Knowledge is responsible for some data scraping, graph definition, graph recomputation based on state and path finding to the best decision.
 
 ### processes
-Processes polls for the latest state, generates tags based on the snapshot of the world based on some predefined functions and updates knowledge with tags which are presently applicable.
+Processes polls for the latest state, generates tags based on the snapshot of the world based on some predefined functions and updates knowledge with tags which are presently applicable. It is currently in the leanest implementation possible for testing and will be expanded upon.
 
 ## Note
 This project is a work in progress and is an example of a decision making tool, it shouldn't be used for anything risky right now.
