@@ -7,3 +7,6 @@
 [submodule "lang"]
 	path = lang
 	url = https://github.com/swarmly-io/s-lang.git
+[submodule "tasks"]
+	path = tasks
+	url = https://github.com/swarmly-io/tasks.git
